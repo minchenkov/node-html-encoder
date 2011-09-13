@@ -3,7 +3,7 @@
 NodeJS wrapper for JavaScript Encoder library http://www.strictly-software.com/htmlencode
 
 ## Install
-		npm install node-html-encoder
+    npm install node-html-encoder
 
 ## Examples
 
