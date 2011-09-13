@@ -1,6 +1,6 @@
 # node-html-encoder
 
-NodeJS wrapper for JavaScript Encoder library http://www.strictly-software.com/htmlencode
+NodeJS wrapper for JavaScript HTML Encoder library http://www.strictly-software.com/htmlencode
 
 ## Install
     npm install node-html-encoder
