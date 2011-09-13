@@ -1,6 +1,13 @@
-A simple example
-===================
-		var Encoder = require('encoder').Encoder;
+# node-html-encoder
+
+NodeJS wrapper for JavaScript Encoder library http://www.strictly-software.com/htmlencode
+
+## Install
+		npm install node-html-encoder
+
+## Examples
+
+		var Encoder = require('node-html-encoder').Encoder;
 
 		// entity type encoder
 		var encoder = new Encoder('entity');
