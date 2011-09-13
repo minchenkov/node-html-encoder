@@ -1,18 +1,18 @@
 {
-	"name": "node-html-encoder",
-	"version": "0.0.1",
-	"description": "Package for encoding and decoding html string",
-	"keywords": [
-		"encoder",
-		"decoder",
-		"html"
-	],
-	"main": "./lib/encoder",
-	"author": "Pavel Minchenkov <pavel@metahouse.ru>",
-	"engines" : {
-		"node" : ">=0.4.0"
-	},
-	"homepage": "https://github.com/minchenkov/node-html-encoder",
+    "name": "node-html-encoder",
+    "version": "0.0.1",
+    "description": "Package for encoding and decoding html string",
+    "keywords": [
+        "encoder",
+        "decoder",
+        "html"
+    ],
+    "main": "./lib/encoder",
+    "author": "Pavel Minchenkov <pavel@metahouse.ru>",
+    "engines" : {
+        "node" : ">=0.4.0"
+    },
+    "homepage": "https://github.com/minchenkov/node-html-encoder",
     "repository" :
     {
         "type" : "git",
