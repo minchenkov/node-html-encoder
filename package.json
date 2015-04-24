@@ -1,6 +1,6 @@
 {
     "name": "node-html-encoder",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Package for encoding and decoding html string",
     "keywords": [
         "encoder",
